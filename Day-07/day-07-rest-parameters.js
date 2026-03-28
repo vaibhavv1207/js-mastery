@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Rest Parameters
+// DAY 07 — Rest Parameters
 // Author  : Vaibhav
 // Topic   : ...rest, real array, traps
 // ============================================

@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Return Statement
+// DAY 07 — Return Statement
 // Author  : Vaibhav
 // Topic   : return, multiple returns, traps
 // ============================================

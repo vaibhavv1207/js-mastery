@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Parameters & Arguments
+// DAY 07 — Parameters & Arguments
 // Author  : Vaibhav
 // Topic   : params, args, value vs reference
 // ============================================

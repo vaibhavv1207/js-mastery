@@ -1,5 +1,5 @@
 // ============================================
-// DAY 07 — Global Scope
+// DAY 08 — Global Scope
 // Author  : Vaibhav
 // Topic   : global scope, shadowing, accidental globals
 // ============================================

@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Function Declaration
+// DAY 07 — Function Declaration
 // Author  : Vaibhav
 // Topic   : declaration, hoisting, return
 // ============================================

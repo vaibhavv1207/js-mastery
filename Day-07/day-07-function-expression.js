@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Function Expression
+// DAY 07 — Function Expression
 // Author  : Vaibhav
 // Topic   : expression, hoisting, named, objects
 // ============================================

@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Arrow Functions
+// DAY 07 — Arrow Functions
 // Author  : Vaibhav
 // Topic   : =>, implicit return, this, traps
 // ============================================

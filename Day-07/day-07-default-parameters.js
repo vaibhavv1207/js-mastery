@@ -1,5 +1,5 @@
 // ============================================
-// DAY 06 — Default Parameters
+// DAY 07 — Default Parameters
 // Author  : Vaibhav
 // Topic   : default params, ES6, traps
 // ============================================

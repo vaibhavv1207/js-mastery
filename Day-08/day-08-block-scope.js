@@ -1,5 +1,5 @@
 // ============================================
-// DAY 07 — Block Scope
+// DAY 08 — Block Scope
 // Author  : Vaibhav
 // Topic   : block scope, var vs let, loop trap
 // ============================================

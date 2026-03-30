@@ -1,5 +1,5 @@
 // ============================================
-// DAY 07 — Local / Function Scope
+// DAY 08 — Local / Function Scope
 // Author  : Vaibhav
 // Topic   : local scope, var vs let, inner/outer
 // ============================================

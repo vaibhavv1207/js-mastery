@@ -1,5 +1,5 @@
 // ============================================
-// DAY 08 — Array Basics
+// DAY 09 — Array Basics
 // Author  : Vaibhav
 // Topic   : arrays, access, reference, typeof
 // ============================================

@@ -1,5 +1,5 @@
 // ============================================
-// DAY 08 — Array Search Methods
+// DAY 09 — Array Search Methods
 // Author  : Vaibhav
 // Topic   : indexOf, includes, find, filter
 // ============================================
